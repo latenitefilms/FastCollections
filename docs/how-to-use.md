@@ -12,7 +12,7 @@ You can now access the Fast Collections Workflow Extension via the **Window > Ex
 
 ...or via the Workflow Extensions toolbar button:
 
-![](/static/toolbox.png)
+![](/static/toolbar.png)
 
 When you open the Workflow Extension for the first time I will look like this:
 
