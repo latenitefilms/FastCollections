@@ -8,7 +8,7 @@
 **🔨 Improvements:**
 
 - Improved the performance of the interface when working with thousands of keywords.
-- Added a new **filter** text box.
+- Added a new **filter** text box. Thanks for suggesting Mark Dixon!
 
 ---
 
