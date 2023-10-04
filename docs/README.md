@@ -10,4 +10,6 @@ This simple Workflow Extension allows you to create a new **Smart Collection**, 
 
 If you have **thousands of keywords** across many events, it can take a long time to create a new Smart Collection with your preferred keywords directly within Final Cut Pro - but with **Fast Collections**, it can now take seconds.
 
+You can also Generate a list of sequential numbers, for example, Scene 01, Scene 02, Scene 03, etc. This is very handy for long-form projects.
+
 ![](/static/frontpage.png)
