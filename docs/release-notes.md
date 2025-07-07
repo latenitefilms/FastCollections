@@ -1,5 +1,15 @@
 # Release Notes
 
+## 1.2.0 (4)
+
+**🎉 Released: Monday 7th July 2025**
+
+**🔨 Improvements:**
+
+- The Fast Collections icon has been updated by the amazing [Matthew Skiles](https://matthewskiles.com)!
+
+---
+
 ## 1.1.0 (3)
 
 **🎉 Released: Wednesday 4th October 2023**
